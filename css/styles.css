@@ -1,0 +1,15 @@
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 800px;
+  margin: auto;
+}
+
+.top {
+  background-color: #b5b6b7;
+  padding: 2px 20px;
+}
